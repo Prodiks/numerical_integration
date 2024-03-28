@@ -3,4 +3,5 @@ PyQt5-tools
 PyQt5-stubs
 matplotlib
 numpy
+nuitka
 git+https://github.com/irsural/irspy.git@master#egg=irspy
